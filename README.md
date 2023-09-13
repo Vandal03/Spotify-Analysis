@@ -12,6 +12,9 @@ Cleaned the data to be able to import into a MySQL Server
 Visualizations on Tableau Public:
 - https://public.tableau.com/app/profile/abraham.vanderpool/viz/Spotify-Dashboard/Dashboard2
 ![Dashboard](https://github.com/Vandal03/Spotify-Analysis/assets/26776266/f30e8956-d49c-43cf-9d8f-2babbae770a2)
+![image](https://github.com/Vandal03/Spotify-Analysis/assets/26776266/12f77033-d15d-4118-9a5e-b41d49f588c9)
+
+
 
 
   
