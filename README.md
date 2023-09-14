@@ -1,5 +1,6 @@
 # Spotify-Analysis
-Review and Visualization of the Top ~1000 songs of 2023
+Review and Visualization of the Top ~1000 songs of 2023 
+Purpose of this project was to just play around with a public data set and to see what could be put together in Tableau.
 
 
 
